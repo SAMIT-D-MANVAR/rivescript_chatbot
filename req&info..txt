@@ -2,6 +2,11 @@ software needed
 1)notepad++
 2)web browser(chrome etc)
 
+references
+1)w3schools
+2)rivescript.com
+
+
 libraries used
 1)rivescript library
 
