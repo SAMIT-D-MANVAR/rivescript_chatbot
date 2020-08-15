@@ -1,0 +1,4 @@
+to get data for chatbot I have made a file in gist uder github .
+link :-https://gist.githubusercontent.com/SAMIT-D-MANVAR/5c0a432be5261255544ab49893201cef/raw/94dd26bf36b696ebcb3b650dfa12016f82b09f2f/brain.rive
+add this to the code and it will access data for the bot
+right now I have made simple interaction 
