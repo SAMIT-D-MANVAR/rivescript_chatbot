@@ -1,0 +1,34 @@
+software needed
+1)notepad++
+2)web browser(chrome etc)
+
+libraries used
+1)rivescript library
+
+concepts
+1)html
+2)css
+3)javascript
+4)rivescript(library)
+
+About rivescript
+
+usually when we make a chatbot with python using chatterbot corpustrainer we install the library of chatterbot.
+The chatterbot has data in the form of .yml files.
+Similarly here we use rivescript library and the chatbot uses data from rive files having extension as .rive .
+
+1)Rivescript is a opensource library used to make simple interactive chatbots.
+2)It is suitable for all kinds of platforms like python,html,pearl,javascript,java etc.
+3)easy to use
+4)rivescript code is written in simple text editor like notepad or any other editor.
+
+5)simple example:- 
+! version = 2.0
++ hello bot
+- Hello, human!
+
+here ! version = 2.0 tells the code follows the syntax of rivescript version 2.0
++ indicates trigger .A trigger is like a question asked from user that the bot matches with it to give a reply.
+- indicates how to response the trigger or question asked
+for further information go through rivescript tutorial.
+
