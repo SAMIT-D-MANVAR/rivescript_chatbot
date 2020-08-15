@@ -3,7 +3,7 @@
                               //further reference documentation(rivescript.com
 let bot = new RiveScript();  //this page performs submitting question and getting response from the bot
                              //we use rivescript library 
-
+                             //Here we are performing simple interactions with bot like hi,hello etc
 
 const message_container = document.querySelector('.messages');  //return first element from selector(selected one eg-message selector(class selector))
 const form = document.querySelector('form');                    //the dataset is in the form to text file with .rive extension
