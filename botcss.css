@@ -2,7 +2,7 @@
   font-family: Courier;  /*reference w3school website */
   font-size: 15px;
 }
- body{
+ body{               /* ADDING IMAGES */
  background-image: url("https://static.botsrv.com/website/img/quriobot_favicon.e6a47306.png"),url(https://image.freepik.com/free-vector/man-profile-cartoon_18591-58482.jpg);
  background-color: #cccccc;
 background-repeat: no-repeat;
@@ -26,7 +26,7 @@ font-size:35px:
   border:2px solid red;
 }
 
-.actions {
+.actions {       
   position: fixed;
   bottom: 0;
   
@@ -46,7 +46,7 @@ font-size:35px:
   background-color:yellow;
 }
 
-.messages div {
+.messages div {      
   max-width: 50%;
   display: block;
   margin: 10px;
