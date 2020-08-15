@@ -1,0 +1,67 @@
+* {                       /* select all elements*/
+  font-family: Courier;  /*reference w3school website */
+  font-size: 15px;
+}
+ body{
+ background-image: url("https://static.botsrv.com/website/img/quriobot_favicon.e6a47306.png"),url(https://image.freepik.com/free-vector/man-profile-cartoon_18591-58482.jpg);
+ background-color: #cccccc;
+background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: left,right; 
+ background-size: 400px 400px, 400px 400px;
+ }
+h1{
+font-size:35px:
+
+
+}
+.chat {        /* box with chat messages*/
+  width: 600px;
+  height: 70%;
+  position: absolute;
+  overflow: scroll;
+  left:500px;
+  top:100px;
+
+  border:2px solid red;
+}
+
+.actions {
+  position: fixed;
+  bottom: 0;
+  
+  display: block;
+  width: 100%;
+}
+
+.actions input{
+                   /*input box*/
+  height: 30px;
+  display: block;
+  width: 38%;
+  outline: 0;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  background-color:yellow;
+}
+
+.messages div {
+  max-width: 50%;
+  display: block;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 7px;
+}
+
+.messages .bot {
+  text-align: left;
+  margin-right: auto;
+  background: lightpink;
+}
+
+.messages .self {
+  text-align: right;
+  margin-left: auto;
+  background: #DDD
+}

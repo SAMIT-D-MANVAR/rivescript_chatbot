@@ -1,0 +1,27 @@
+<!DOCTYPE html>   <!-- version of html -->
+<html>              
+ <head>
+  <title>
+    autobot       
+  </title>
+  <meta charset="utf-8">   
+  <meta name="viewport" content="width=device-width,initial scale=1"><!-- for a good responsive website-->
+  <link rel="stylesheet" href="botcss.css"/><!-- link cs file to html page-->
+  <script src="https://unpkg.com/rivescript@latest/dist/rivescript.min.js"></script><!-- To embed RiveScript on your web page using a CDN link so that our chatbot interacts with us-->
+</head>
+<body>
+     
+	 <div class="chat">   <!-- using div and id tags for styling the webpage-->
+      <div class="messages"></div>
+      <div id="edge"></div>
+      <form class="actions">         <!-- take input from user (ask question to bot)-->
+      <input type="text" placeholder="PLEASE ENTER TEXT HERE ">
+      </form>     
+
+      </div>
+      <script src="bot.js"></script><!-- linking javascript files-->
+</body>
+</html>
+<!-- this page creates a user interface for the bot -->
+<!-- reference taken from w3schools-->
+<!-- rivescript.com-->
